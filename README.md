@@ -1,4 +1,4 @@
-# Online Retail Item Popularity Analyzer
+# Product Recommendation System
 
 This project provides a simple data analysis tool to identify the most popular retail items from the **Online Retail dataset**. It supports global, country-wise, and month-wise popularity analysis and visualization.
 
